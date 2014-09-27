@@ -1,0 +1,31 @@
+@font-face{
+	font-family: CaviarDreams;
+	src: url(CaviarDreams.ttf);
+}
+
+body{
+	font-family:CaviarDreams, Arial;
+	font-weight: lighter;
+	width:100%;
+}
+div#center{
+	margin:150px auto 0px auto;
+	width:700px;
+	text-align:center;
+}
+h1 {
+	color:red;
+}
+input{
+	font-size: 20px;
+	font-family: CaviarDreams, Arial;
+	text-align:center;
+}
+input[type="text"]{
+	border: 1px black solid;
+}
+input[type="submit"]{
+	border: 1px red solid;
+	background-color:white;
+	color:red;
+}
