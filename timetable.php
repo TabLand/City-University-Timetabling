@@ -1,5 +1,5 @@
 <?php 
-require_once("lib/simple_html_dom.php");
+require_once("simple_html_dom.php");
 // fix date warnings in error log
 date_default_timezone_set ( 'Europe/London' );
 // This class extensively uses C.Marshal's web apps script
@@ -18,7 +18,6 @@ class Timetable {
 	// in seconds
 	const one_day = 86400;
 	const one_week = 604800;
-
 	public function get_page($url) {
 		// ODO - Grab HTTP Errors
 		$this->html_dom = file_get_html ( $url );
