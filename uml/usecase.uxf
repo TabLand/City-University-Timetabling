@@ -1,0 +1,1225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="12.2">
+  <zoom_level>7</zoom_level>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>329</x>
+      <y>35</y>
+      <w>126</w>
+      <h>49</h>
+    </coordinates>
+    <panel_attributes>Fill in Module 
+Requirement Form
+fg=default
+bg=default</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Actor</type>
+    <coordinates>
+      <x>133</x>
+      <y>280</y>
+      <w>70</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>Student</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Actor</type>
+    <coordinates>
+      <x>364</x>
+      <y>294</y>
+      <w>70</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>Lecturer</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Actor</type>
+    <coordinates>
+      <x>392</x>
+      <y>315</y>
+      <w>140</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>School Timetabling Officer</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Actor</type>
+    <coordinates>
+      <x>0</x>
+      <y>21</y>
+      <w>392</w>
+      <h>98</h>
+    </coordinates>
+    <panel_attributes>Module Leader Boss</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Actor</type>
+    <coordinates>
+      <x>567</x>
+      <y>189</y>
+      <w>126</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>Central Timetabling Staff</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Actor</type>
+    <coordinates>
+      <x>525</x>
+      <y>322</y>
+      <w>126</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>Central Timetabling Boss</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>546</x>
+      <y>0</y>
+      <w>105</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>Upload Module 
+Specification</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Actor</type>
+    <coordinates>
+      <x>308</x>
+      <y>392</y>
+      <w>98</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>Teaching Assistant</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Actor</type>
+    <coordinates>
+      <x>455</x>
+      <y>441</y>
+      <w>70</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>School Staff</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Actor</type>
+    <coordinates>
+      <x>539</x>
+      <y>406</y>
+      <w>84</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>University Staff</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Actor</type>
+    <coordinates>
+      <x>126</x>
+      <y>413</y>
+      <w>182</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>Student Society Committee Member</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Actor</type>
+    <coordinates>
+      <x>119</x>
+      <y>175</y>
+      <w>126</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>Societies Administrator</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Actor</type>
+    <coordinates>
+      <x>630</x>
+      <y>301</y>
+      <w>84</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>Timetabling Bot</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>252</x>
+      <y>112</y>
+      <w>84</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>Specify Time</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>343</x>
+      <y>140</y>
+      <w>119</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>Specify Start Date</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>511</x>
+      <y>77</y>
+      <w>112</w>
+      <h>35</h>
+    </coordinates>
+    <panel_attributes>Specify Recurrence
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>455</x>
+      <y>119</y>
+      <w>105</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>Specify End Date
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>343</x>
+      <y>63</y>
+      <w>98</w>
+      <h>91</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+&lt;&lt;include&gt;&gt;</panel_attributes>
+    <additional_attributes>56;77;49;21</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>406</x>
+      <y>56</y>
+      <w>98</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+&lt;&lt;include&gt;&gt;</panel_attributes>
+    <additional_attributes>84;63;21;21</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>427</x>
+      <y>35</y>
+      <w>140</w>
+      <h>49</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+&lt;&lt;include&gt;&gt;</panel_attributes>
+    <additional_attributes>133;42;21;28</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>259</x>
+      <y>49</y>
+      <w>105</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+&lt;&lt;include&gt;&gt;</panel_attributes>
+    <additional_attributes>84;21;35;63</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>196</x>
+      <y>28</y>
+      <w>140</w>
+      <h>35</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>21;21;133;28</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>434</x>
+      <y>0</y>
+      <w>119</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+&lt;&lt;include&gt;&gt;</panel_attributes>
+    <additional_attributes>112;21;21;56</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>637</x>
+      <y>98</y>
+      <w>168</w>
+      <h>35</h>
+    </coordinates>
+    <panel_attributes>Check Personalised Timetable</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>665</x>
+      <y>147</y>
+      <w>84</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>Add Room</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>672</x>
+      <y>182</y>
+      <w>84</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>Edit Room
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>770</x>
+      <y>154</y>
+      <w>84</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>Delete Room
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>756</x>
+      <y>21</y>
+      <w>119</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>Specify Availability
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>686</x>
+      <y>224</y>
+      <w>140</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>Add Room Constraint</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>714</x>
+      <y>266</y>
+      <w>126</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>Edit Room Constraint
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>791</x>
+      <y>189</y>
+      <w>126</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>Delete Room Constraint
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>742</x>
+      <y>315</y>
+      <w>119</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>Add Student User</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>749</x>
+      <y>357</y>
+      <w>112</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>Edit Student User
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>826</x>
+      <y>245</y>
+      <w>119</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>Delete Student User
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>413</x>
+      <y>182</y>
+      <w>154</w>
+      <h>35</h>
+    </coordinates>
+    <panel_attributes>Specify Teaching Availability</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>308</x>
+      <y>224</y>
+      <w>126</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>Approve Availability
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>434</x>
+      <y>238</y>
+      <w>126</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>Disapprove Availablity</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>658</x>
+      <y>413</y>
+      <w>84</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>Add Course
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>637</x>
+      <y>455</y>
+      <w>84</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>Edit Course
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>742</x>
+      <y>392</y>
+      <w>84</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>Delete Course
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>833</x>
+      <y>392</y>
+      <w>112</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>Add Course Level
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>840</x>
+      <y>329</y>
+      <w>105</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>Edit Course Level
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>98</x>
+      <y>714</y>
+      <w>105</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>Export Course
+Information
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>728</x>
+      <y>483</y>
+      <w>161</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>Import Course Information</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>665</x>
+      <y>525</y>
+      <w>84</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>Add Module
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>756</x>
+      <y>525</y>
+      <w>84</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>Edit Module
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>707</x>
+      <y>581</y>
+      <w>84</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>Delete Module
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>868</x>
+      <y>518</y>
+      <w>161</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>Add Module to Course
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>840</x>
+      <y>560</y>
+      <w>196</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>Remove Module from Course
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>588</x>
+      <y>602</y>
+      <w>126</w>
+      <h>35</h>
+    </coordinates>
+    <panel_attributes>Add Student to Course
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>756</x>
+      <y>609</y>
+      <w>161</w>
+      <h>35</h>
+    </coordinates>
+    <panel_attributes>Remove Student from Course
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>378</x>
+      <y>728</y>
+      <w>105</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>Export Student 
+Information
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>917</x>
+      <y>483</y>
+      <w>154</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>Import Student Information
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Note</type>
+    <coordinates>
+      <x>812</x>
+      <y>427</y>
+      <w>210</w>
+      <h>35</h>
+    </coordinates>
+    <panel_attributes>These usecases will allow the student 
+record database to work with my system
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Note</type>
+    <coordinates>
+      <x>266</x>
+      <y>644</y>
+      <w>112</w>
+      <h>35</h>
+    </coordinates>
+    <panel_attributes>These usecases will 
+allow backups
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>336</x>
+      <y>658</y>
+      <w>98</w>
+      <h>77</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>21;21;91;70</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Actor</type>
+    <coordinates>
+      <x>189</x>
+      <y>504</y>
+      <w>70</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>Line Manager</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>952</x>
+      <y>616</y>
+      <w>140</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>Add School/Department</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>826</x>
+      <y>651</y>
+      <w>133</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>Edit School/Department</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>973</x>
+      <y>665</y>
+      <w>147</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>Delete School/Department</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>154</x>
+      <y>658</y>
+      <w>140</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>133;21;21;56</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>770</x>
+      <y>441</y>
+      <w>125</w>
+      <h>55</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>112;21;21;42</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>945</x>
+      <y>441</y>
+      <w>83</w>
+      <h>55</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>21;21;70;42</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Actor</type>
+    <coordinates>
+      <x>126</x>
+      <y>882</y>
+      <w>70</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>Backup Bot</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>203</x>
+      <y>735</y>
+      <w>112</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>Export Timetable 
+Information</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>294</x>
+      <y>770</y>
+      <w>98</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>Export Staff 
+Information</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>574</x>
+      <y>840</y>
+      <w>175</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>Import Timetable Information</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>532</x>
+      <y>784</y>
+      <w>140</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>Import Staff Information</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>399</x>
+      <y>567</y>
+      <w>63</w>
+      <h>49</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>21;21;56;42</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>259</x>
+      <y>658</y>
+      <w>49</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>42;21;21;77</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>294</x>
+      <y>658</y>
+      <w>56</w>
+      <h>119</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>21;21;49;112</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>231</x>
+      <y>840</y>
+      <w>84</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>Perform Backup
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>623</x>
+      <y>924</y>
+      <w>84</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>Apply Restore
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>504</x>
+      <y>903</y>
+      <w>84</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>Upload Backup
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>392</x>
+      <y>868</y>
+      <w>98</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>Download 
+Anonymised
+Timetable 
+(RSS Feed)</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>161</x>
+      <y>847</y>
+      <w>112</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>105;21;21;56</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>259</x>
+      <y>777</y>
+      <w>98</w>
+      <h>77</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+&lt;&lt;include&gt;&gt;</panel_attributes>
+    <additional_attributes>42;70;70;21</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>294</x>
+      <y>735</y>
+      <w>147</w>
+      <h>126</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+&lt;&lt;include&gt;&gt;</panel_attributes>
+    <additional_attributes>21;119;140;21</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>196</x>
+      <y>742</y>
+      <w>98</w>
+      <h>105</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+&lt;&lt;include&gt;&gt;</panel_attributes>
+    <additional_attributes>56;98;56;21</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>126</x>
+      <y>721</y>
+      <w>119</w>
+      <h>133</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+&lt;&lt;include&gt;&gt;</panel_attributes>
+    <additional_attributes>112;126;21;21</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>287</x>
+      <y>840</y>
+      <w>112</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+&lt;&lt;include&gt;&gt;</panel_attributes>
+    <additional_attributes>105;56;21;21</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>560</x>
+      <y>889</y>
+      <w>105</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+&lt;&lt;include&gt;&gt;</panel_attributes>
+    <additional_attributes>21;28;98;35</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Actor</type>
+    <coordinates>
+      <x>322</x>
+      <y>945</y>
+      <w>70</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>Unsatisfied
+Stakeholder</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>357</x>
+      <y>910</y>
+      <w>77</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>70;21;21;63</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>462</x>
+      <y>987</y>
+      <w>119</w>
+      <h>35</h>
+    </coordinates>
+    <panel_attributes>Upload Improved
+Timetable</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>357</x>
+      <y>959</y>
+      <w>126</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>21;21;119;35</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>469</x>
+      <y>910</y>
+      <w>98</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+&lt;&lt;include&gt;&gt;</panel_attributes>
+    <additional_attributes>63;21;49;77</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>553</x>
+      <y>1036</y>
+      <w>133</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>Calculate Statistics</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>280</x>
+      <y>1092</y>
+      <w>147</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>Calculate Space 
+Utilisation Index
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>441</x>
+      <y>1078</y>
+      <w>133</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>Calculate Clash Index
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>539</x>
+      <y>1106</y>
+      <w>161</w>
+      <h>49</h>
+    </coordinates>
+    <panel_attributes>Calculate Average Workload
+Staff/Student</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>434</x>
+      <y>1162</y>
+      <w>133</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>Highlight Estate 
+Improvement Strategy
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>812</x>
+      <y>721</y>
+      <w>147</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>Add Teaching 
+Staff to Module
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>994</x>
+      <y>735</y>
+      <w>126</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>Remove Teaching
+Staff from Module</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>987</x>
+      <y>196</y>
+      <w>112</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>Assign Constraint
+To Room</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>973</x>
+      <y>259</y>
+      <w>119</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>Remove Constraint
+From Room
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>994</x>
+      <y>322</y>
+      <w>105</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>Add Timetabling
+Constraint</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>1015</x>
+      <y>371</y>
+      <w>119</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>Remove Timetabling
+Constraint
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>1085</x>
+      <y>427</y>
+      <w>119</w>
+      <h>35</h>
+    </coordinates>
+    <panel_attributes>Generate Timetable
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>1078</x>
+      <y>525</y>
+      <w>168</w>
+      <h>35</h>
+    </coordinates>
+    <panel_attributes>AI Heuristic Search #2
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>1141</x>
+      <y>567</y>
+      <w>168</w>
+      <h>35</h>
+    </coordinates>
+    <panel_attributes>AI Heuristic Search #1
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>1260</x>
+      <y>532</y>
+      <w>168</w>
+      <h>35</h>
+    </coordinates>
+    <panel_attributes>AI Heuristic Search #3
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>1197</x>
+      <y>469</y>
+      <w>168</w>
+      <h>35</h>
+    </coordinates>
+    <panel_attributes>AI Heuristic Search #4
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>

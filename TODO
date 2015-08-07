@@ -1,0 +1,8 @@
+Calendar.html
+Views: Day/Week/Month/Agenda
+Export to ical + google calendar
+
+Creation of TODO grabber, that grabs all comments preceded by the keyword "TODO"
+Class Diagram Generator - SVG
+Program Flow Generator - What calls what?
+Data Flow? How each variable passes values here and there..

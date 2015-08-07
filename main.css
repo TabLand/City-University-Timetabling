@@ -1,0 +1,21 @@
+@font-face
+{
+font-family: cicle;
+src: url(Cicle_Gordita.ttf);
+}
+
+body,input {
+	font-family:'Josefin Sans',cicle;
+	font-size: 2em;
+}
+a    {
+	text-decoration: none;
+	color: yellow;
+}
+body {
+	background-color: black;
+	color: white;
+	width: 50%;
+	margin: 0px auto 0px auto;
+	text-align: center;
+}
