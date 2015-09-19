@@ -529,4 +529,10 @@ a.download{
 	background-color:#ff0000;
 	padding: 2px;
 }
-
+div.bugs{
+	display:block;
+	width:100%;
+	text-align:center;
+    bottom: 1px;
+    position: absolute;
+}
